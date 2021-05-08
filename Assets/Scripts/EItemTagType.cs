@@ -1,0 +1,26 @@
+﻿public enum EItemTagType
+{
+    None,
+    DifficultyClass,
+    Durability,
+    Charge,
+    DurabilityLossRate,
+    DischargeRate,
+    NoiseLevel,
+    ScanRange,
+    ScanFrequency,
+    ChanceOfSuccess,
+    WaveSpeed,
+    PowerSupplyBattery,
+    Equipable,
+    DissipationRange,
+    DissipationArc,
+    DissipationTime,
+    WorkTime,
+    WorkRange,
+    SonarDevice,
+    ScanerDevice,
+    ShrickerDevice,
+    DecoyDevice,
+    PowerSupplyLightShard
+}
